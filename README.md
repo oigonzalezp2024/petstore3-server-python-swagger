@@ -21,7 +21,7 @@ En el menu superior están las siguientes opciones:
 <li>About</li>
 </ul>
 
-En este caso vas a generar un servidor en python, asi que le dale click a <b>Generate Server</b> y elige <b>python-fast</b>.
+En este caso vas a generar un servidor en python, asi que dale click a <b>Generate Server</b> y elige <b>python-fast</b>.
 
 ![alt text](./images/image-1.png)
 
@@ -34,7 +34,7 @@ Se mostrará como sigue:
 
 ![alt text](./images/image-3.png)
 
-Sube el proyecto a tu <b>github</b>, desde ahora, para que puedas hacer pruebas controladas de tu experiencia de aprendizaje. Una vez hayas cargado el proyecto en github, descargarlo con <b>git clone</b>. Y pasa a describir la experiencia de manera puntual, como de costumbre. Luego, sigue los pasos del <b>README.md</b> que fue generado. (En este proyecto  <b>README.md</b> ha sido cambiado de nombre a README_SWAGGER.md).
+Sube el proyecto a tu <b>github</b>, desde ahora, para que puedas hacer pruebas controladas de tu experiencia de aprendizaje. Una vez hayas cargado el proyecto en github, descargarlo con <b>git clone</b>. Y pasa a describir la experiencia de manera puntual, como de costumbre. Luego, sigue los pasos del <b>README.md</b> que fue generado. (En este proyecto  <b>README.md</b> ha sido cambiado de nombre a <b>README_SWAGGER.md</b>).
 
 Sigue los pasos:
 
@@ -93,11 +93,11 @@ dice <b>Authorize</b>. Dale click. Te aparecerá esto:
 Revisando detenidamente, te darás cuenta que no estará 
 consultando tu servidor local (localhost:8080)
 
-![alt text](./images/image-8.png)
+![alt text](./images/image-9.png)
 
 Debería verse así:
 
-![alt text](./images/image-9.png)
+![alt text](./images/image-8.png)
 
 Para solucionar esto debes hacer lo siguiente:  
 
@@ -128,7 +128,7 @@ Cuando ensayes un endpoint debe aparecer la respuesta:
 
 ![alt text](./images/image-11.png)
 
-Con ello, el sistema te está dice que ya es hora
+Con ello, el sistema te dice que ya es hora
 de empezar a desarrollar los endpoint de la API.
 
 > 
